@@ -7,8 +7,8 @@ const sendEmail = async (req, res, email) => {
   var transporter = await nm.createTransport({
     service: "outlook",
     auth: {
-      user: "viniciusfernandes154@hotmail.com",
-      pass: "vinicius1313",
+      user: "***",
+      pass: "***",
     },
   });
 
