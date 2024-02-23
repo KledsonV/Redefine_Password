@@ -13,7 +13,7 @@ const sendEmail = async (req, res, email) => {
   });
 
   var mailOptions = await {
-    from: "viniciusfernandes154@hotmail.com",
+    from: "***",
     to: email,
     subject: "You Code!",
     text: `Your code to reset the password is: ${result} `,
