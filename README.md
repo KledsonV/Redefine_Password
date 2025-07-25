@@ -5,7 +5,7 @@ Projeto backend em Node.js com TypeScript e Express para gerenciar o processo de
 ## Tecnologias
 
 - Node.js
-- TypeScript
+- JavaScript
 - Express
 - JWT (JSON Web Token) para segurança dos tokens
 - Nodemailer para envio de e-mails
